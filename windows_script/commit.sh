@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Change to your repo
-cd /d/hobbies/Learning-Git
+cd /d/hobbies/Learning-Git/commits
 
 # Start date
-date=20231015
+date=20240325
 # End date
-end_date=20231211
+end_date=20240329
 
 while [[ $date -le $end_date ]]
 do
