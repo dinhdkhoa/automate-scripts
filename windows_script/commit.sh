@@ -4,9 +4,9 @@
 cd /d/hobbies/Learning-Git/commits
 
 # Start date
-date=20240325
+date=20250415
 # End date
-end_date=20240329
+end_date=20250502
 
 while [[ $date -le $end_date ]]
 do
